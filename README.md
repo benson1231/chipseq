@@ -1,3 +1,8 @@
+> This is a modified version of the [nf-core/chipseq](https://github.com/nf-core/chipseq) pipeline in 2025/09/08, originally developed and licensed under the MIT License by [nf-core/chipseq team](https://github.com/nf-core/chipseq/graphs/contributors).
+
+> 📌 本 README 為基於 [nf-core/chipseq](https://github.com/nf-core/chipseq) 的修改版本，僅用於學習與紀錄用途，2025/09/08。
+> 原始專案由 [nf-core/chipseq team](https://github.com/nf-core/chipseq/graphs/contributors) 開發，原始授權為 MIT License。
+
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/nf-core-chipseq_logo_dark.png">
